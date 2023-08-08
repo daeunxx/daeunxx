@@ -60,5 +60,5 @@
 </br>
 <h3><b> 🔭 Github Stats </b></h3>
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=daeunxx&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daeunxx&layout=compact&theme=tokyonight)
+[![Daeun's GitHub stats](https://github-readme-stats.vercel.app/api?username=daeunxx)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daeunxx&langs_count=10&layout=compact)]()
