@@ -60,5 +60,5 @@
 </br>
 <h3><b> 🔭 Github Stats </b></h3>
 
-[![Daeun's GitHub stats](https://github-readme-stats.vercel.app/api?username=daeunxx)]()
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daeunxx&langs_count=10&layout=compact)]()
+[![Daeun's GitHub stats](https://github-readme-stats.vercel.app/api?username=daeunxx&theme=tokyonight)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daeunxx&langs_count=10&layout=compact&theme=tokyonight)]()
