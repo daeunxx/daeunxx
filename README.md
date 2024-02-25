@@ -31,13 +31,15 @@
 <img src="https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazons3&logoColor=white"> 
 <img src="https://img.shields.io/badge/Kafka-E10915?style=flat-square&logo=apachekafka&logoColor=black">
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black"/></a><br>
+
+<br>
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"> 
 <img src="https://img.shields.io/badge/jquery-0769AD?style=flat-square&logo=jquery&logoColor=white"> 
 <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white">
 <img src="https://img.shields.io/badge/AJAX-2E77BC?style=flat-square&logo=Betfair&logoColor=white">
 <img src="https://img.shields.io/badge/thymeleaf-005F0F?style=flat-square&logo=thymeleaf&logoColor=white"><br>
 
-
+<br>
 <img src="https://img.shields.io/badge/Intellij-EF2D5E?style=flat-square&logo=intellijidea&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
