@@ -21,11 +21,12 @@
 <!-- 기술스택 시작 -->
 <div align='left'><h3><b>🛠 Tech Stack </b></h3>
 <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=java&logoColor=white">
-<img src="https://img.shields.io/badge/Kotlin-#7F52FF?style=flat-square&logo=kotlin&logoColor=white">
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white">
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white">
 <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white">
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/></a>
 
+<br>
 <img src="https://img.shields.io/badge/AWS EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white"/>
 <img src="https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazons3&logoColor=white"> 
 <img src="https://img.shields.io/badge/Kafka-E10915?style=flat-square&logo=apachekafka&logoColor=black">
@@ -36,7 +37,7 @@
 <img src="https://img.shields.io/badge/AJAX-2E77BC?style=flat-square&logo=Betfair&logoColor=white">
 <img src="https://img.shields.io/badge/thymeleaf-005F0F?style=flat-square&logo=thymeleaf&logoColor=white"><br>
 
-<br>
+
 <img src="https://img.shields.io/badge/Intellij-EF2D5E?style=flat-square&logo=intellijidea&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
