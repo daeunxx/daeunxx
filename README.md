@@ -58,7 +58,7 @@
 <!-- 연락처 시작 -->
 ### 📫 How to reach me
 <!-- - 링크드인: https://www.linkedin.com/in/moonhy7 -->
-- 포트폴리오: [포트폴리오](https://www.notion.so/957f05c80e624238833b7ce35982360a?pvs=4)
+- 포트폴리오: [portfolio](https://www.notion.so/957f05c80e624238833b7ce35982360a?pvs=4)
 - 이메일: sss3598@gmail.com
 <!-- 연락처 끝 -->
 
