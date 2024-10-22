@@ -1,1 +1,2 @@
 *.jar filter=lfs diff=lfs merge=lfs -text
+kibana-8.15.1-darwin-x86_64.tar.gz filter=lfs diff=lfs merge=lfs -text
